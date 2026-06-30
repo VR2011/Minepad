@@ -4,7 +4,7 @@
 A macropad to play Minecraft with!
 
 # Features
-Not much; it has 11 keys that are binded to the following keys:
+Not much; it has 11 keys that are binded to the following keys: Esc, F3, E, Q, T, W, A, S, D, Space, Tab
 
 <img width="224" height="182" alt="MC macropad idea" src="https://github.com/user-attachments/assets/96549cd1-4506-4449-b5de-907b20b48278" />
 
