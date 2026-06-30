@@ -18,10 +18,10 @@ Not much; it has 11 keys that are binded to the following keys:
 <img width="979" height="1132" alt="Screenshot 2026-06-30 115619" src="https://github.com/user-attachments/assets/b740340d-0844-4127-ba73-712e35b05268" />
 
 # Bill of Materials
-4x M3x5mx4mm heatset inserts
-1x Seeedxiao RP2040 Microcontroller
-11x MX-Style Switches
-4x M3x16mm SHCS Bolt
-11x White blank DSA keycaps
-1x PCB
-2x 3D Printed Case (Top and Bottom Parts)
+- 4x M3x5mx4mm heatset inserts
+- 1x Seeedxiao RP2040 Microcontroller
+- 11x MX-Style Switches
+- 4x M3x16mm SHCS Bolt
+- 11x White blank DSA keycaps
+- 1x PCB
+- 2x 3D Printed Case (Top and Bottom Parts)
